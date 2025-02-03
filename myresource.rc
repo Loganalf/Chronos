@@ -1,0 +1,10 @@
+IDI_ICON1 ICON "app_icon.ico"
+IDR_WAVE1 RCDATA "bienvenida.wav"
+IDR_WAVE2 RCDATA "despedida.wav"
+IDR_WAVE3 RCDATA "digito_beep.wav"
+IDR_WAVE4 RCDATA "salto_conejo.wav"
+IDR_WAVE5 RCDATA "teclas.wav"
+IDR_WAVE6 RCDATA "tictac_reloj.wav"
+IDR_WAVE7 RCDATA "saludo.wav"
+IDR_WAVE8 RCDATA "apagado_pantalla.wav"
+
