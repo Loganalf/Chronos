@@ -18,3 +18,22 @@ Luego en Dev-C++ abrimos un nuevo proyecto, añadimos el código en C, añadimos
 -lwinmm myresource.o
 
 Luego en opciones del entorno deseleccionamos "Pause console programs after return" compilamos y listo. Así además de ver el código que sin anotaciones puede ser un poco lioso y resultar algo tedioso, también podrán probar como funciona y darme consejos de cara al futuro. Gracias a todos por vuestro tiempo.
+
+He incluido también el archivo de recursos ya compilado con los archivos encriptados en myresource.o por si alguien se quiere saltar ese paso, así como el ejecutable ya compilado. Pero ahí están todos los archivos para poder revisar todo, ver el código, revisar los archivos que se incluyen, y compilarlo todo ustedes mismos. Lista de archivos:
+
+1. Chronos.c
+2. myresource.rc
+3. resource.h
+4. myresource.o
+5. Chronos.exe
+6. app_icon.ico
+7. apagado_pantalla.wav
+8. bienvenida.wav
+9. despedida.wav
+10. digito_beep.wav
+11. salto_conejo.wav
+12. saludo.wav
+13. teclas.wav
+14. tictac_reloj.wav
+
+Eso es todo, espero sus impresiones y gracias por tomarse tiempo para revisar esta tontería de la cual me siento tan orgulloso. (Ahora que todavía no he recibido feedback. xD)
